@@ -1,2 +1,2 @@
 # NETFLIX Movies and TV shows Data Analysis using SQL
-![Netflix Logo]()
+![Netflix Logo](logo.png)
